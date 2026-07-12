@@ -18,17 +18,17 @@ What sets this version apart is the imaginative setting and enhanced visuals. Th
 In addition to the classic Angry Birds gameplay, this version introduces several new and exciting features:
 
 ## Key Features
-2. **Main Screen**: The main menu screen provides two primary options - "Play" to start the game, and "Quit" to exit.
+1. **Main Screen**: The main menu screen provides two primary options - "Play" to start the game, and "Quit" to exit.
 
-3. **Menu Screen**: The level selection menu displays all available stages in an interactive asteroid field. Players can browse through the levels and select the one they wish to play.
+2. **Menu Screen**: The level selection menu displays all available stages in an interactive asteroid field. Players can browse through the levels and select the one they wish to play.
 
-4. **Level Screen**: This is where the core gameplay takes place. The level screen presents the playing field, with structures housing the evil pigs. Players use the slingshot to launch birds and destroy the pigs' defenses.
+3. **Level Screen**: This is where the core gameplay takes place. The level screen presents the playing field, with structures housing the evil pigs. Players use the slingshot to launch birds and destroy the pigs' defenses.
 
-5. **Bird and Pig Characters**: The classic Angry Birds characters have been reimagined with a space-themed design. The birds and pigs now have unique animations and sound effects that enhance the overall experience.
+4. **Bird and Pig Characters**: The classic Angry Birds characters have been reimagined with a space-themed design. The birds and pigs now have unique animations and sound effects that enhance the overall experience.
 
-6. **Resizable Window**: The game window can be resized, and all user interface (UI) elements will automatically adjust to maintain the optimal layout and proportions.
+5. **Resizable Window**: The game window can be resized, and all user interface (UI) elements will automatically adjust to maintain the optimal layout and proportions.
 
-7. **Save and Load**: Players can save their progress in the game and load their saved game from the menu screen, allowing them to pick up where they left off.
+6. **Save and Load**: Players can save their progress in the game and load their saved game from the menu screen, allowing them to pick up where they left off.
 
 ## Classes Overview
 The game is structured using the following key classes:
